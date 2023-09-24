@@ -4,9 +4,11 @@ verify_ssl = true
 name = "pypi"
 
 [packages]
-pymongo= "*"
-requests= "*"
-python-dotenv= "*"
+pymongo= "==4.5.0"
+requests= "==2.31.0"
+python-dotenv= "==1.0.0"
+pandas= "*"
+jupyter= "*"
 
 [dev-packages]
 

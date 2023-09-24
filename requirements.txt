@@ -1,0 +1,8 @@
+certifi==2023.7.22; python_version >= '3.6'
+charset-normalizer==3.2.0; python_full_version >= '3.7.0'
+dnspython==2.4.2; python_version >= '3.8' and python_version < '4.0'
+idna==3.4; python_version >= '3.5'
+pymongo==4.5.0
+python-dotenv==1.0.0
+requests==2.31.0
+urllib3==2.0.5; python_version >= '3.7'
