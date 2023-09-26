@@ -5,10 +5,10 @@
 from dotenv import load_dotenv, find_dotenv
 
 load_dotenv(find_dotenv())
-from api import ping_api
+from src.api import ping_api
 import os
 from datetime import datetime
-from DBInterface import DBInterface
+from src.DBInterface import DBInterface
 
 
 def main():
